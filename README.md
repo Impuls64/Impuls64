@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **impuls/impuls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to my GitHub profile!
@@ -24,4 +24,4 @@ https://tryhackme-badges.s3.amazonaws.com/impuls.png
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡️ Fun fact: ...
--->
+
