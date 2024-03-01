@@ -1,17 +1,15 @@
 ### Hi there 👋
 
 <!--
-**Impuls64/Impuls64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# White Hacker
+**impuls/impuls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome to my GitHub profile!
 
-## Hack The Box Progresshttps://www.hackthebox.eu/badge/image/impuls
+## Hack The Box Progress
+https://www.hackthebox.eu/badge/image/impuls
 
 ## Try Hack Me Progress
-
-https://tryhackme-badges.s3.amazonaws.com/Impuls.png
+https://tryhackme-badges.s3.amazonaws.com/impuls.png
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,5 +18,5 @@ https://tryhackme-badges.s3.amazonaws.com/Impuls.png
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡️ Fun fact: ...
 -->
