@@ -9,13 +9,3 @@
 цвцйца
 
 Level: ![HTB Level](https://www.hackthebox.eu/badge/image/impuls)
-
-
-уаыафвц
-![HTB Academy Badge](https://academy.hackthebox.com/storage/badges/academician.png)
-
-## Try Hack Me Progress
-Level: ![THM Level](https://tryhackme-badges.s3.amazonaws.com/impuls.png)
-
-пвыапывп
-You can find my Hack The Box profile [here](https://www.hackthebox.eu/home/users/profile/532905).
