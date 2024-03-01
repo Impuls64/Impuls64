@@ -5,7 +5,6 @@
 Welcome to my GitHub profile!
 
 ## Hack The Box Progress
-![Hack The Box Badge](https://www.hackthebox.eu/badge/image/impuls)
 ![HTB Academy Badge](https://academy.hackthebox.com/storage/badges/academician.png)
 
 ## Try Hack Me Progress
